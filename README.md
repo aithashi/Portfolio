@@ -12,7 +12,7 @@ Personal portfolio website showcasing my frontend, mobile, and agentic engineeri
 
 ## Live Website
 
-[View portfolio](YOUR_VERCEL_URL)
+[View portfolio](https://portfolio-aithashi.vercel.app/)
 
 ## Technology
 
